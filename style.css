@@ -1,4 +1,8 @@
 body {
   border: 10px solid #eee;
-  margin-left: 10px;
+  margin: 0;
+  font-family: Arial;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
 }  
